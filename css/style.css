@@ -732,6 +732,11 @@ body {
     margin-top: 1rem;
 }
 
+.cert-link {
+    text-decoration: none;
+    color: inherit;
+}
+
 .progress-bar {
     width: 100%;
     height: 8px;
